@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project](https://github.com/Ath998/your-project)
+- 🔭 I’m currently working on [Your Project](https://github.com/Ath988/your-project)
 - 🌱 I’m currently learning JAVA
 - 💬 Ask me about **[Topics you are interested in]**
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
@@ -15,11 +15,11 @@
 
 ## My GitHub Stats
 
-![Ath998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ath998&show_icons=true&theme=radical)
+![Ath988's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ath988&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath998&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath988&layout=compact&theme=radical)
 
 ## Featured Projects
 
