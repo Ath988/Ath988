@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Atahan 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Ath988?label=Follow&style=social)](https://github.com/Ath988)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atahan-%C3%A7elik-15a628261/)
@@ -6,12 +6,15 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project](https://github.com/Ath988/your-project)
+- 🔭 I’m currently working on [Social Media Project]([https://github.com/Ath988/your-project](https://github.com/Ath988/SocialMediaProject))
 - 🌱 I’m currently learning JAVA
-- 💬 Ask me about **[Topics you are interested in]**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something interesting about you]
+- 💬 Ask me about Java/Html&Css
+- 📫 How to reach me: [c.atahan34@gmail.com](c.atahan34@gmail.com)
+- 😄 Pronouns: Junior Java Developer
+- ⚡ Fun fact:
+- I can play the Dj Setup.
+- I love games so,i have a collection of over 100 vintage video games.
+- I know cars very well, so I'm interested in motorsports.
 
 ## My GitHub Stats
 
@@ -23,13 +26,13 @@
 
 ## Featured Projects
 
-### [Project 1](https://github.com/Ath998/project-1)
-- Description of project 1
-- Technologies used: **[Tech1, Tech2, Tech3]**
+### [Project 1](https://github.com/Ath988/SocialMediaProject)
+- We design social media application with java.
+- Technologies used: Java,Kubernates,Mongo,Postgre,GoogleCloud...
 
-### [Project 2](https://github.com/Ath998/project-2)
-- Description of project 2
-- Technologies used: **[Tech1, Tech2, Tech3]**
+### [Project 2](https://github.com/Ath998/marbleflows)
+- I created the visual in Canva. I wrote the code with HTML-CSS.
+- Technologies used: Canva,VisualStudio/Code
 
 ## Connect with Me
 
