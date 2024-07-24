@@ -26,13 +26,18 @@
 
 ## Featured Projects
 
-### [Project 1](https://github.com/Ath988/SocialMediaProject)
+### [Social Media Project](https://github.com/Ath988/SocialMediaProject)
 - We design social media application with java.
 - Technologies used: Java,Kubernates,Mongo,Postgre,GoogleCloud...
 
-### [Project 2](https://github.com/Ath998/marbleflows)
+### [Marble Flows Website](https://github.com/Ath988/marbleflows)
 - I created the visual in Canva. I wrote the code with HTML-CSS.
 - Technologies used: Canva,VisualStudio/Code
+- 
+### [Social Media Glossary](https://github.com/Ath988/smg)
+- I created the visual in Canva. I wrote the code with HTML-CSS.
+- Technologies used: Canva,VisualStudio/Code
+- (https://usebiolink.com/social-media-terms)
 
 ## Connect with Me
 
