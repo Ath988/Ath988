@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Ath998?label=Follow&style=social)](https://github.com/Ath998)
+[![GitHub followers](https://img.shields.io/github/followers/Ath988?label=Follow&style=social)](https://github.com/Ath988)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atahan-%C3%A7elik-15a628261/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/Ath_98__)
 
