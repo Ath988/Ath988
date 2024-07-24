@@ -1,15 +1,13 @@
 # Hi there, I'm [Your Name] 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Ath998?label=Follow&style=social)](https://github.com/Ath998)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atahan-%C3%A7elik-15a628261/)
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/Ath_98__)
 
 ## About Me
 
 - 🔭 I’m currently working on [Your Project](https://github.com/Ath998/your-project)
-- 🌱 I’m currently learning **[Technology/Language]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **[Technology/Project]**
+- 🌱 I’m currently learning JAVA
 - 💬 Ask me about **[Topics you are interested in]**
 - 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 - 😄 Pronouns: [Your Pronouns]
@@ -34,6 +32,10 @@
 - Technologies used: **[Tech1, Tech2, Tech3]**
 
 ## Connect with Me
+
+
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
