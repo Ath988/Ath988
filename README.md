@@ -39,5 +39,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![GitHub](https://img.shields.io/github/followers/Ath998?label=Follow&style=social)](https://github.com/Ath998)
+[![GitHub](https://img.shields.io/github/followers/Ath988?label=Follow&style=social)](https://github.com/Ath988)
+
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
