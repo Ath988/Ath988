@@ -32,7 +32,7 @@
 - Technologies used: Java,Kubernates,Mongo,Postgre,GoogleCloud...
 
 ### [Marble Flows Website](https://github.com/Ath988/marbleflows)
-- I created the visual in Canva. I wrote the code with HTML-CSS.
+- I created the visual in Figma. I wrote the code with HTML-CSS.
 - Technologies used: Canva,VisualStudio/Code
 - 
 ### [Social Media Glossary](https://github.com/Ath988/smg)
